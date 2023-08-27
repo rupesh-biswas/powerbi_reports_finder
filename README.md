@@ -14,7 +14,7 @@ Before running the script, ensure you have the following:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/rupesh-biswas/power-bi-api-script.git
+   git clone https://github.com/rupesh-biswas/powerbi_reports_finder.git
    ```
 
 2. Install the required libraries:
@@ -26,7 +26,7 @@ Before running the script, ensure you have the following:
 3. Run the script:
 
    ```bash
-   python power_bi_api_script.py
+   python getPowerBiDatasources.py
    ```
 
 4. Follow the prompts to provide necessary inputs:
