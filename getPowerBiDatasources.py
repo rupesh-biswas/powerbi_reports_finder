@@ -28,7 +28,7 @@ except Exception as e:
 # Setting up the authorization header
 access_token = input("Enter Your bearer token: ")
 headers = {
-    "Authorization": f"Bearer {access_token}"
+    "Authorization": "Bearer {}.format(access_token)"
 }
 
 
