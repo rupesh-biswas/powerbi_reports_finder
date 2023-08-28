@@ -20,7 +20,7 @@ Before running the script, ensure you have the following:
 2. Install the required libraries:
 
    ```bash
-   pip install requests pandas
+   pip install requests pandas openpyxl
    ```
 
 3. Run the script:
